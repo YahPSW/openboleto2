@@ -1,6 +1,11 @@
-# OpenBoleto [![Stories in Ready](http://badge.waffle.io/kriansa/openboleto.png)](http://waffle.io/kriansa/openboleto) [![Build Status](https://api.travis-ci.org/kriansa/openboleto.png)](https://travis-ci.org/kriansa/openboleto) 
+# BIBLIOTECA EM TESTE, NÃO UTILIZAR
+## BIBLIOTECA EM TESTE, DOCUMENTAÇÃO NÃO FOI ATUALIZADA.
+### Bibiliote base é o OpenBoleto, porem houver algumas alteracoes para funcionar e atualizações.
 
-### Sistema base é o OpenBoleto, porem houver algumas alteracoes para funcionar e atualizações pela regra do Banco Central.
+### Atualização:
+Itau: Deve ser utilizadas às Novas Nomenclaturas nos boletos: 
+Beneficiário: antigo Cedente
+Pagador: antigo Sacado,
 
 O OpenBoleto é uma biblioteca de código aberto para geração de boletos bancários, um meio de pagamento muito comum no Brasil. O foco é ser simples e ter uma arquitetura compatível com os recursos mais modernos do PHP.
 
@@ -9,7 +14,7 @@ O OpenBoleto é uma biblioteca de código aberto para geração de boletos banc�
 Se você já conhece o **Composer** (o que é extremamente recomendado), simplesmente adicione a dependência abaixo à diretiva *"require"* seu **composer.json**:
 
 ```
-"kriansa/openboleto": "dev-wip-1.0"
+"gdakuzak/openboleto2": "dev-master",
 ```
 
 ###PSR-0 autoloader
