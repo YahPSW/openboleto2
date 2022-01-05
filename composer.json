@@ -1,9 +1,9 @@
 {
-    "name": "gdakuzak/openboleto2",
+    "name": "yahpsw/openboleto2",
     "type": "library",
     "description": "Biblioteca para geração de boletos bancários.",
     "keywords": ["boleto", "boleto bancario"],
-    "homepage": "https://github.com/gdakuzak/openboleto2",
+    "homepage": "https://github.com/yahpsw/openboleto2",
     "license": "MIT",
     "authors": [
         {
