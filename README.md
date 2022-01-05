@@ -14,7 +14,7 @@ O OpenBoleto é uma biblioteca de código aberto para geração de boletos banc�
 Se você já conhece o **Composer** (o que é extremamente recomendado), simplesmente adicione a dependência abaixo à diretiva *"require"* seu **composer.json**:
 
 ```
-"gdakuzak/openboleto2": "dev-master",
+"yahpsw/openboleto2": "dev-master",
 ```
 
 ###PSR-0 autoloader
